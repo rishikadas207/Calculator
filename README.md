@@ -1,7 +1,5 @@
 # Calculator
 
-Sure, here's a structured README file for your calculator project:
-
 Simple Calculator Project
 This is a simple calculator project built using HTML, CSS, and JavaScript. It's designed for beginners to learn and understand the basics of web development and JavaScript programming.
 
